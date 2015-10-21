@@ -16,11 +16,24 @@ body {
 	margin: 0;
 }
 
+h1 {
+	text-align: center;
+}
+
+ol {
+	padding: 0;
+}
+
 .list {
-	text-decoration: none;
+	list-style-type: none;
 }
 
 .gutter {
 	padding-left: 1em;
 	padding-right: 1em;
+}
+
+.img-flex {
+	width: 100%;
+	display: block;
 }
