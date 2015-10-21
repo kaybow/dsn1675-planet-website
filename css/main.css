@@ -24,6 +24,10 @@ ol {
 	padding: 0;
 }
 
+.header {
+	background-color: grey;
+}
+
 .list {
 	list-style-type: none;
 }
