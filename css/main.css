@@ -19,3 +19,8 @@ body {
 .list {
 	text-decoration: none;
 }
+
+.gutter {
+	padding-left: 1em;
+	padding-right: 1em;
+}
