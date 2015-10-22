@@ -1,0 +1,46 @@
+html {
+box-sizing: border-box;
+-moz-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+
+font-family: sans-serif;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
+
+body {
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+ol {
+	padding: 0;
+}
+
+header {
+	background-color: grey;
+	overflow: hidden;
+}
+
+.list {
+	list-style-type: none;
+}
+
+.img-flex {
+	width: 100%;
+	display: block;
+}
+
+@media only screen and (min-width: 25em) {
+
+li {
+	display: inline-block;
+}
+}
