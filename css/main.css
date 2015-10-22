@@ -26,6 +26,7 @@ ol {
 
 .header {
 	background-color: grey;
+	overflow: hidden;
 }
 
 .list {
