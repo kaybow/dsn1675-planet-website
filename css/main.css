@@ -105,6 +105,11 @@ dd {
 	text-align: left;
 }
 
+.char {
+	background-color: #e0e0e0;
+	overflow: hidden;
+}
+
 @media only screen and (min-width: 25em) {
 
 li {
