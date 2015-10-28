@@ -25,7 +25,7 @@ h2, h3, p {
 	margin: 1em;
 }
 
-h2, h3 {
+h2 {
 	text-align: center;
 }
 
@@ -98,6 +98,10 @@ dd {
 	padding-bottom: 1em;
 }
 
+.v {
+	text-align: left;
+}
+
 .discovery {
 	background-color: #ccc;
 }
@@ -126,5 +130,6 @@ li {
 
 h1 {
 	text-align: left;
+	margin-left: 1em;
 }
 }
