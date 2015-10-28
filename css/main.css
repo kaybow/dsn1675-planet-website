@@ -84,11 +84,6 @@ dd {
 	list-style-type: none;
 }
 
-.gutter {
-	padding-left: 1em;
-	padding-right: 1em;
-}
-
 .img-flex {
 	width: 100%;
 	display: block;
@@ -120,9 +115,6 @@ li {
 	text-align: center;
 }
 
-.gutter {
-	margin: 0;
-	padding: 0;
 }
 }
 
