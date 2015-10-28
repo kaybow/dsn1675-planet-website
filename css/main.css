@@ -47,6 +47,14 @@ header {
 	overflow: hidden;
 }
 
+.second {
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 1em;
+	margin-top: 0;
+	font-weight: normal;
+}
+
 .list {
 	list-style-type: none;
 }
