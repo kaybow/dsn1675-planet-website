@@ -21,6 +21,14 @@ h1 {
 	font-size: 1.5em;
 }
 
+h2, h3, p {
+	margin: 1em;
+}
+
+h2, h3 {
+	text-align: center;
+}
+
 ol {
 	padding-left: 1em;
 	color: #0074d9;
@@ -47,12 +55,28 @@ header {
 	overflow: hidden;
 }
 
+dl {
+	margin: 1em;
+}
+
+dd {
+	margin: 0;
+	padding-bottom: 1em;
+}
+
 .second {
 	background-color: #e0e0e0;
 	text-align: center;
 	padding: 1em;
 	margin-top: 0;
 	font-weight: normal;
+}
+
+.explore {
+	background-color: #e0e0e0;
+	text-align: center;
+	padding: 0.75em;
+	margin-top: 0;
 }
 
 .list {
@@ -71,6 +95,14 @@ header {
 
 .venus {
 	padding-bottom: 1em;
+}
+
+.discovery {
+	background-color: #ccc;
+}
+
+.disc {
+	text-align: left;
 }
 
 @media only screen and (min-width: 25em) {
