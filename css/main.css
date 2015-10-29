@@ -110,8 +110,8 @@ dd {
 	overflow: hidden;
 }
 
-.moon1, .moon2 {
-	margin: 1.25em;
+.moon1, .moon2, .moon3 {
+	margin: 1em;
 	width: 90%;
 }
 
