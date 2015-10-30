@@ -16,13 +16,12 @@ body {
 	margin: 0;
 }
 
-h1 {
-	text-align: center;
-	font-size: 1.5em;
-}
-
 h2, h3, p {
 	margin: 1em;
+}
+
+h1 {
+	text-align: center;
 }
 
 h2 {
@@ -125,13 +124,11 @@ li {
 }
 
 }
-}
 
 @media only screen and (min-width: 38em) {
 
 h1 {
 	text-align: left;
-	margin-left: 1em;
 }
 }
 
