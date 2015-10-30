@@ -110,11 +110,6 @@ dd {
 	overflow: hidden;
 }
 
-.moon1, .moon2, .moon3 {
-	margin: 1em;
-	width: 90%;
-}
-
 @media only screen and (min-width: 25em) {
 
 li {
