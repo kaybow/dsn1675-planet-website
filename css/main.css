@@ -97,8 +97,8 @@ dd {
 	text-align: left;
 }
 
-.discovery {
-	background-color: #ccc;
+.discovery, .moons {
+	background-color: #e0e0e0;
 }
 
 .disc {
@@ -108,6 +108,10 @@ dd {
 .char {
 	background-color: #e0e0e0;
 	overflow: hidden;
+}
+
+footer {
+	background-color: #ccc;
 }
 
 @media only screen and (min-width: 25em) {
