@@ -79,10 +79,6 @@ dd {
 	margin-top: 0;
 }
 
-.list {
-	list-style-type: none;
-}
-
 .img-flex {
 	width: 100%;
 	display: block;
@@ -115,15 +111,7 @@ footer {
 
 @media only screen and (min-width: 25em) {
 
-li {
-	display: inline-block;
-}
 
-.moon {
-	text-align: center;
-}
-
-}
 
 @media only screen and (min-width: 38em) {
 
