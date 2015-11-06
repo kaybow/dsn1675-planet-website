@@ -67,9 +67,8 @@ dd {
 	margin-top: 0;
 }
 
-.img-flex {
-	width: 100%;
-	display: block;
+.probes {
+	background-color: #e2e2e2;
 }
 
 .venus {
@@ -81,7 +80,7 @@ dd {
 }
 
 .discovery, .moons {
-	background-color: #e0e0e0;
+	background-color: #efefef;
 }
 
 .disc {
