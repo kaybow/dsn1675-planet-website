@@ -20,8 +20,7 @@ li a {
 	text-decoration: none;
 	color: #0074d9;
 	display: block;
-	padding: 0.5em;
-	padding-right: 6em;
+	padding: 0.2em;
 }
 
 li a:hover {
