@@ -32,14 +32,6 @@ header {
 	background-color: #ccc;
 }
 
-.second {
-	background-color: #e0e0e0;
-	padding: 1em;
-	margin: 0;
-	margin-bottom: 1em;
-	font-weight: normal;
-}
-
 .probes {
 	background-color: #e2e2e2;
 }
@@ -48,9 +40,8 @@ header {
 	background-color: #efefef;
 }
 
-.char, .explore {
+.char, .explore, .second {
 	background-color: #e0e0e0;
-	overflow: hidden;
 }
 
 footer {
@@ -64,14 +55,9 @@ footer {
 }
 }
 
-.navindex {
-	list-group--inline
-}
-}
-
 @media only screen and (min-width: 38em) {
 
-h1 {
+.venus {
 	text-align: left;
 }
 }
