@@ -16,10 +16,6 @@ ol {
 	color: #0074d9;
 }
 
-li {
-	padding-bottom: 1.25em;
-}
-
 li a {
 	text-decoration: none;
 	color: #0074d9;
@@ -35,10 +31,6 @@ li a:hover {
 header {
 	background-color: #ccc;
 	overflow: hidden;
-}
-
-dl {
-	margin: 1em;
 }
 
 dd {
