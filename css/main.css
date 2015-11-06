@@ -19,13 +19,14 @@ ol {
 li a {
 	text-decoration: none;
 	color: #0074d9;
+	display: block;
+	padding: 0.5em;
+	padding-right: 6em;
 }
 
 li a:hover {
 	background-color: #0074d9;
 	color: #fff;
-	padding: 0.5em;
-	padding-right: 6em;
 }
 
 header {
@@ -44,6 +45,10 @@ header {
 	background-color: #e0e0e0;
 }
 
+.toplink {
+	text-decoration: none;
+}
+
 footer {
 	background-color: #ccc;
 }
@@ -52,6 +57,10 @@ footer {
 
 .nav li {
 	display: inline-block;
+}
+
+.nav {
+	text-align: center;
 }
 }
 
