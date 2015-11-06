@@ -41,10 +41,6 @@ header {
 	font-weight: normal;
 }
 
-.explore {
-	background-color: #e0e0e0;
-}
-
 .probes {
 	background-color: #e2e2e2;
 }
@@ -53,7 +49,7 @@ header {
 	background-color: #efefef;
 }
 
-.char {
+.char, .explore {
 	background-color: #e0e0e0;
 	overflow: hidden;
 }
@@ -64,6 +60,8 @@ footer {
 
 @media only screen and (min-width: 25em) {
 
+.venus {
+	text-align: left;
 }
 }
 
