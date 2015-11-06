@@ -12,10 +12,6 @@ font-family: sans-serif;
 	box-sizing: inherit;
 }
 
-h2, h3, p {
-	margin: 1em;
-}
-
 ol {
 	padding-left: 1em;
 	color: #0074d9;
@@ -75,16 +71,8 @@ dd {
 	padding-bottom: 1em;
 }
 
-.v {
-	text-align: left;
-}
-
 .discovery, .moons {
 	background-color: #efefef;
-}
-
-.disc {
-	text-align: left;
 }
 
 .char {
